@@ -1,3 +1,7 @@
+// -> https://www.youtube.com/watch?v=xFJXtB5vSmM
+/*VERY IMPORTANT QUESTION*/
+
+
 #include <iostream>
 #include <deque> 
 using namespace std;
