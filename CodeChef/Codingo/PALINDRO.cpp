@@ -1,0 +1,1 @@
+https://www.codechef.com/CDGO2021/problems/PALINDRO
